@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2024:674</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-03-01T13:35:48</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-03-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2024-03-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18.283374.23</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#opTegenspraak">Op tegenspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=312&amp;g=2004-08-10">Wetboek van Strafrecht 312</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2024:674">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2024:674</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-03-01T13:35:11</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-03-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2024:674 Rechtbank Noord-Nederland , 01-03-2024 / 18.283374.23</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2024:674:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>verdachte is veroordeeld tot 48 maanden gevangenisstraf voor een woningoverval met geweld gepleegd in Alteveer.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2024:674:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>
+    <emphasis role="bold">Uitspraak</emphasis>
+  </para>
+  <section>
+    <title>RECHTBANK NOORD-NEDERLAND</title>
+    <parablock>
+      <para>Afdeling strafrecht Locatie Groningen</para>
+      <para>parketnummer 18.283374.23 vordering na voorwaardelijke veroordeling parketnummer 21.002747.17</para>
+      <para>
+        <emphasis role="bold">Vonnis van de meervoudige kamer voor de behandeling van strafzaken van 1 maart 2024 in de zaak van het openbaar ministerie tegen de verdachte</emphasis>
+      </para>
+      <para>
+        <emphasis role="bold">[verdachte] , </emphasis>geboren op [geboorte datum] 1983 te [geboorte plaats] , wonende aan [adres] , op dit moment gedetineerd in de [instelling] .</para>
+      <para>Dit vonnis is gewezen naar aanleiding van het onderzoek ter terechtzitting van 16 februari 2024.</para>
+      <para>Verdachte is verschenen, bijgestaan door mr. D.C. Vlielander, advocaat te Utrecht.</para>
+      <para>Het openbaar ministerie is ter terechtzitting vertegenwoordigd door mr. J.G.F. van Boven.</para>
+      <para>
+        <emphasis role="bold">Tenlastelegging</emphasis>
+      </para>
+      <para>Aan verdachte is ten laste gelegd dat:</para>
+      <para>hij op of omstreeks 8 maart 2023 te [plaats] , gemeente Stadskanaal, althans in Nederland, gedurende de voor de nachtrust bestemde tijd in/uit een woning (gelegen aan de [adres] ), tezamen en in vereniging met een of meer anderen, althans alleen, 550 euro en/of 2.000 euro, in elk geval een geldbedrag/enig goed, dat/die geheel of ten dele aan [slachtoffer] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen; en zich de toegang tot de plaats van het misdrijf heeft/hebben verschaft en/of dat/die weg te nemen goed/goederen onder zijn/haar/hun bereik heeft/hebben gebracht door middel van braak, verbreking en/of inklimming, welke diefstal werd voorafgegaan, vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen [slachtoffer] , gepleegd met het oogmerk om die diefstal voor te bereiden, gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, door:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>op die [slachtoffer] te springen en/of</para>
+      </listitem>
+      <listitem>
+        <para>( vervolgens) een elleboog om de hals van die [slachtoffer] te klemmen en/of te houden en/of</para>
+      </listitem>
+      <listitem>
+        <para>( vervolgens) die [slachtoffer] in een (houd)greep te nemen en/of te houden, waardoor die [slachtoffer] zich niet meer vrijelijk kon bewegen en/of</para>
+      </listitem>
+      <listitem>
+        <para>( vervolgens) de handen van [slachtoffer] op zijn rug te brengen en/of te drukken en/of</para>
+      </listitem>
+      <listitem>
+        <para>( vervolgens) een (broek)riem om de hals van [slachtoffer] te leggen en/of (vervolgens) deze</para>
+      </listitem>
+    </itemizedlist>
+    <parablock>
+      <para>(broek)riem aan te trekken, waardoor het vrijelijk ademen bemoeilijkt werd en/of - ( vervolgens) een (hand)doek op en/of tegen de mond van die [slachtoffer] te duwen; subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou kunnen leiden:</para>
+      <para>hij op of omstreeks 8 maart 2023 te [plaats] , gemeente Stadskanaal, althans in Nederland, gedurende de voor de nachtrust bestemde tijd in/uit een woning (gelegen aan de [adres] ), tezamen en in vereniging met een of meer anderen, althans alleen, met het oogmerk om zich en/of een ander wederrechtelijk te bevoordelen, en zich de toegang tot de plaats van het misdrijf heeft/hebben verschaft en/of dat/die weg te nemen goed/goederen onder zijn/haar/hun bereik heeft/hebben gebracht door middel van braak, verbreking en/of inklimming, door geweld en/of bedreiging met geweld [slachtoffer] heeft gedwongen tot de afgifte van 550 euro en/of 2.000 euro, in elk geval een geldbedrag/enig goed, dat/die geheel of ten dele aan die [slachtoffer] en/of een derde toebehoorde(n) door:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>op die [slachtoffer] te springen en/of</para>
+      </listitem>
+      <listitem>
+        <para>( vervolgens) een elleboog om de hals van die [slachtoffer] te klemmen en/of te houden en/of</para>
+      </listitem>
+      <listitem>
+        <para>( vervolgens) die [slachtoffer] in een (houd)greep te nemen en/of te houden, waardoor die [slachtoffer] zich niet meer vrijelijk kon bewegen en/of</para>
+      </listitem>
+      <listitem>
+        <para>( vervolgens) de handen van [slachtoffer] op zijn rug te brengen en/of te drukken en/of</para>
+      </listitem>
+      <listitem>
+        <para>( vervolgens) een (broek)riem om de hals van [slachtoffer] te leggen en/of (vervolgens) deze</para>
+      </listitem>
+    </itemizedlist>
+    <para>(broek)riem aan te trekken, waardoor het vrijelijk ademen bemoeilijkt werd en/of</para>
+    <para>- ( ( vervolgens) een (hand)doek op en/of tegen de mond van die [slachtoffer] te duwen.</para>
+  </section>
+  <section>
+    <title>Beoordeling van het bewijs</title>
+    <parablock>
+      <para>
+        <emphasis role="underline">Standpunt van de officier van justitie</emphasis>
+      </para>
+      <para>De officier van justitie heeft veroordeling gevorderd voor de rechtbank begrijpt het primair ten laste gelegde feit.</para>
+      <para>
+        <emphasis role="underline">Standpunt van de verdediging</emphasis>
+      </para>
+      <para>De raadsman heeft betoogd dat verdachte integraal moet worden vrijgesproken van hetgeen hem ten laste is gelegd, vanwege het ontbreken van voldoende overtuigend bewijs. Daartoe voert de raadsman in de kern aan dat het DNA-onderzoek niet kan bijdragen aan het overtuigend bewijs. Ten eerste is er een kleine hoeveelheid DNA van verdachte gevonden en is sprake van een DNA-mengprofiel. Dit heeft gevolgen voor de bewijskracht. Als verdachte de handdoek in de mond van aangever zou hebben gestopt, zou bovendien meer DNA van verdachte op de handdoek moeten zijn aangetroffen. Daarbij komt nog dat de handdoek een verplaatsbaar voorwerp is en dat het niet vaststaat dat de handdoek uit het huis van aangever komt. Tot slot kan een fout zijn gemaakt in het DNA-onderzoek. Daarnaast heeft de raadsman betoogd dat de politie naar aanleiding van de camerabeelden niet tot een herkenning van verdachte is gekomen.</para>
+      <para>
+        <emphasis role="underline">Oordeel van de rechtbank</emphasis>
+      </para>
+      <para>De rechtbank past ten aanzien van het hierna onder primair bewezen verklaarde de volgende bewijsmiddelen toe die de voor de bewezenverklaring redengevende feiten en omstandigheden bevatten zoals hieronder zakelijk weergegeven.</para>
+    </parablock>
+    <para>1. Een naar wettelijk voorschrift opgemaakt proces-verbaal van aangifte van 8 maart 2023, opgenomen oppagina 18 en verder van het dossier van Politie Noord-Nederland met nummer 2023059808 van 7 november 2023, inhoudend als verklaring van [slachtoffer] :</para>
+    <parablock>
+      <para>Vannacht werd ik rond 04:00 uur wakker. Ik zag dat er twee personen in mijn slaapkamer waren. Toen ik wakker werd, sprong één van de mannen bovenop mij en hield mij in een houdgreep. De elleboog hield hij om mijn hals. Ik kon niets meer doen. Het deed pijn. Ik zei dat er mogelijk nog wat geld in mijn portemonnee kon zijn. Dit hebben er ze er toen uitgehaald. Dit moet ongeveer 550 euro zijn geweest. De man bleef mij vasthouden. De andere man is de hele woning doorgegaan en heeft alles doorzocht. In de kast in de gang stond een emmer met kleingeld. Er moet ongeveer 2000 euro in die emmer gezeten hebben.</para>
+      <para>Ik hoor u zeggen dat er braaksporen op de achterdeur zitten.</para>
+    </parablock>
+    <para>2. Een naar wettelijk voorschrift opgemaakt proces-verbaal van verhoor aangever van 23 april 2023,opgenomen op pagina 23 en verder van voornoemd dossier, inhoudend als verklaring van [slachtoffer] :</para>
+    <parablock>
+      <para>Ik woon aan de [adres] te [plaats] .</para>
+      <para>Ik werd omstreeks 04:00 uur die nacht van 8 maart 2023 wakker.</para>
+      <para>Direct werden door de kleinste van de twee, de handen achter mijn rug gebracht en ik kreeg mijn eigen broekriem om mijn nek, deze werd aangetrokken door de kleinste man. Ik kon nog wel ademen, maar dat ging niet makkelijk.</para>
+      <para>Deze grote getinte man droeg handschoenen. Deze man probeerde nog een handdoek in mijn mond te stoppen.</para>
+    </parablock>
+    <para>3. Een naar wettelijk voorschrift opgemaakt proces-verbaal van verhoor getuige van 27 september 2023,opgenomen op pagina 91 en verder van voornoemd dossier, inhoudend als verklaring van [getuige] :</para>
+    <parablock>
+      <para>V: Ik laat jou nog eens de camerabeelden zien van een camera die hangt aan de woning van de [adres] in [plaats] , dit is ongeveer 200 m vanaf de woning van je vader, ongeveer 2 minuten lopen. We zien dat deze beelden van 8 maart 2023 om 04.20 uur zijn.</para>
+      <para>We zien een man lopen en deze man heeft een tas in zijn hand en draagt deze op zijn rug dan wel schouder. Is dit de tas, waarover jij spreekt?</para>
+      <para>A: Ja dit is de tas die van mijn moeder was.</para>
+    </parablock>
+    <para>4. Een naar wettelijk voorschrift opgemaakt proces-verbaal van bevindingen van 2 oktober 2023,opgenomen op pagina 69 en verder van voornoemd dossier, inhoudend als relaas van de verbalisant:</para>
+    <parablock>
+      <para>Ik heb de beelden bekeken, welke zijn aangeleverd door de bewoner van [adres] te [plaats] . Op de beelden staat linksboven de datum en tijd: 2023-03-08 04:20:17 AM.</para>
+      <para>Over de stoep, aan de linkerzijde, zie ik om 04:20:37 uur een man vanachter het witte schuurtje/hokje komen aanlopen.</para>
+      <para>Ik kan de man als volgt omschrijven:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>Fors/stevig postuur</para>
+      </listitem>
+      <listitem>
+        <para>Vermoedelijk kaal hoofd, licht van lantaarnpaal zie je soms weerkaatsen op het hoofd</para>
+      </listitem>
+      <listitem>
+        <para>Donkere huidskleur</para>
+      </listitem>
+      <listitem>
+        <para>Draagt over zijn rechterschouder/bovenarm een zwart/donker met wit gestreepte tas meteen of twee hengsels bovenop, onderkant van deze tas heeft een effen kleur.</para>
+      </listitem>
+    </itemizedlist>
+    <para>5. Een kennisgeving van inbeslagneming van 8 maart 2023, opgenomen op pagina 155 en verder vanvoornoemd dossier, inhoudend:</para>
+    <parablock>
+      <para>Object : Textiel (handdoek)</para>
+      <para>Spoor identificatienr. : AAPQ3474NL</para>
+      <para>Bijzonderheden : Door de daders gebruikt op het slachtoffer.</para>
+    </parablock>
+    <para>6. Een deskundigenrapport afkomstig van het Nederlands Forensisch Instituut (NFI) van het Ministerie vanVeiligheid en Justitie, zaaknummer 2023.08.08.093 (aanvraag 001), van 1 september 2023, opgemaakt door ing. J.H.C. Gits, op de door hem/haar afgelegde algemene belofte als vast gerechtelijk deskundige, opgenomen op pagina 167 en verder van voornoemd dossier, voor zover inhoudend als zijn/haar verklaring:</para>
+    <parablock>
+      <para>Onderzoek naar biologische sporen</para>
+      <para>
+        <emphasis role="underline">Handdoek AAPQ3474NL</emphasis>
+      </para>
+      <para>Beide zijden van de handdoek zijn in vier delen bemonsterd gericht op het verzamelen van DNA van degene(n) die met de handdoek in contact is (zijn) geweest.</para>
+      <para>Resultaten, interpretatie en conclusie van het onderzoek</para>
+      <para>Handdoek AAPQ3474NL</para>
+    </parablock>
+    <informaltable>
+      <tgroup cols="3">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <colspec colname="colC" />
+        <tbody>
+          <row>
+            <entry morerows="1">
+              <para>AAPQ3474NL#03</para>
+              <para>
+                <emphasis role="italic">deel van zijde 1 van de</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>DNA kan afkomstig zijn van:</para>
+              <para>minimaal drie personen: </para>
+            </entry>
+            <entry morerows="1">
+              <para>Bewijskracht:</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <emphasis role="italic">handdoek</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <emphasis role="italic">een relatief grote hoeveelheid</emphasis>
+              </para>
+              <para>
+                <emphasis role="italic">DNA</emphasis>
+              </para>
+              <para>- slachtoffer [slachtoffer] - onbekende vrouw A</para>
+              <para>
+                <emphasis role="italic">een relatief kleine hoeveelheid DNA </emphasis>
+              </para>
+              <para>- [verdachte]</para>
+            </entry>
+            <entry>
+              <para>- zie toelichting 1</para>
+              <para>- zie toelichting 2</para>
+              <para>- meer dan 1 miljard</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <parablock>
+      <para>Bewijskracht van het vergelijkend DNA-onderzoek </para>
+      <para>
+        <emphasis role="underline">AAPQ3474NL#03 (</emphasis>
+        <emphasis role="underline italic">deel van zijde 1 van de handdoek</emphasis>
+        <emphasis role="underline">)</emphasis>
+      </para>
+      <para>Voor deze berekening is aangenomen dat de bemonstering DNA bevat van drie (niet-verwante) personen.</para>
+      <para>Ook is aangenomen dat een deel van het DNA afkomstig is van slachtoffer [slachtoffer] .</para>
+      <para>DNA-mengprofiel AAPQ3474NL#03 is meer dan 1 miljard keer waarschijnlijker wanneer het DNA in de bemonstering afkomstig is van slachtoffer [slachtoffer] , [verdachte] en een willekeurige onbekende persoon, dan wanneer het DNA in de bemonstering afkomstig is van slachtoffer [slachtoffer] en twee willekeurige onbekende personen.</para>
+      <para>Met betrekking tot de hiervoor weergegeven standpunten overweegt de rechtbank het volgende.</para>
+      <para>Vaststaat dat in de nacht van 8 maart 2023 een woningoverval met geweld heeft plaatsgevonden aan de [adres] in [plaats] .</para>
+      <para>De vraag die de rechtbank moet beantwoorden is of wettig en overtuigend bewezen kan worden dat verdachte één van de overvallers is geweest. Naar het oordeel van de rechtbank kan die vraag bevestigend worden beantwoord. De rechtbank overweegt daartoe als volgt.</para>
+      <para>Uit de verklaring van aangever volgt dat één van de daders een handdoek in zijn mond heeft geprobeerd te stoppen. Die handdoek is daarom een daderspoor en door het NFI onderzocht. Op de handdoek is DNA aangetroffen waaruit een DNA-mengprofiel is verkregen. Het DNA van verdachte is daarin herkend. Dat in het mengprofiel ook het DNA van andere personen is gevonden, doet niet af aan de omstandigheid dat ook</para>
+      <para>DNA dat overeenkomt met het DNA van verdachte, is aangetroffen. Het NFI concludeert dat het meer dan</para>
+    </parablock>
+    <para>1. miljard keer waarschijnlijker is wanneer het DNA afkomstig is van verdachte, aangever en een onbekende persoon dan wanneer het DNA afkomstig is van aangever en twee onbekende personen.</para>
+    <parablock>
+      <para>Het waargenomen DNA van verdachte op de handdoek vraagt om een verklaring. Die verklaring heeft verdachte niet gegeven. De stelling van de verdediging dat de handdoek, zijnde een verplaatsbaar voorwerp, mogelijk niet uit het huis van aangever komt, volgt de rechtbank niet. Aangever heeft verklaard dat de handdoek die tijdens de overval is gebruikt afkomstig kan zijn uit zijn keuken of wasmand. Aangever heeft vrijwel altijd een soortgelijke handdoek in de keuken hangen. De stelling van de verdediging dat veel meer DNA van verdachte had moeten zijn aangetroffen als hij de dader was geweest, volgt de rechtbank ook niet. Uit de verklaring van aangever volgt namelijk dat de dader die de handdoek in zijn mond probeerde te stoppen handschoenen droeg, waardoor de overdracht van DNA mogelijk beperkt is gebleven.</para>
+      <para>Naast het DNA is er ook een proces-verbaal van bevindingen met een beschrijving van verdachte. De rechtbank constateert net als de verbalisanten die verdachte hebben verhoord, dat verdachte gelijkenis vertoont met de persoon op de beelden. Het gaat om de volgende kenmerken: stevig postuur, kaal hoofd, donker getinte huidskleur. Hoewel er geen proces-verbaal van herkenning door verbalisanten is opgemaakt, is de rechtbank van oordeel dat deze gelijkenissen in het licht van de conclusies van het NFI over het aangetroffen DNA voldoende zijn om te komen tot wettig en overtuigend bewijs dat verdachte één van de daders van de woningoverval is geweest.</para>
+      <para>De rechtbank acht het primair ten laste gelegde feit wettig en overtuigend bewezen, met dien verstande dat:</para>
+      <para>hij op 8 maart 2023 te [plaats] gedurende de voor de nachtrust bestemde tijd uit een woning (gelegen aan de [adres] ), tezamen en in vereniging met een ander, 550 euro en 2.000 euro, die geheel aan [slachtoffer] toebehoorden heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen; en zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak, welke diefstal werd vergezeld van geweld, gepleegd met het oogmerk om die diefstal gemakkelijk te maken door:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>op die [slachtoffer] te springen en</para>
+      </listitem>
+      <listitem>
+        <para>vervolgens een elleboog om de hals van die [slachtoffer] te klemmen en</para>
+      </listitem>
+      <listitem>
+        <para>vervolgens die [slachtoffer] in een houdgreep te nemen, waardoor die [slachtoffer] zich niet meervrijelijk kon bewegen en</para>
+      </listitem>
+      <listitem>
+        <para>vervolgens de handen van [slachtoffer] op zijn rug te brengen en</para>
+      </listitem>
+      <listitem>
+        <para>vervolgens een broekriem om de hals van [slachtoffer] te leggen en vervolgens deze broekriem aan tetrekken, waardoor het vrijelijk ademen bemoeilijkt werd en</para>
+      </listitem>
+      <listitem>
+        <para>vervolgens een handdoek tegen de mond van die [slachtoffer] te duwen.</para>
+      </listitem>
+    </itemizedlist>
+    <parablock>
+      <para>Verdachte zal van het meer of anders ten laste gelegde worden vrijgesproken, aangezien de rechtbank dat niet bewezen acht.</para>
+      <para>Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. Verdachte is daardoor niet geschaad in de verdediging.</para>
+      <para>Het bewezen verklaarde levert op:</para>
+      <para>Dit feit is strafbaar nu geen omstandigheden aannemelijk zijn geworden die de strafbaarheid uitsluiten.</para>
+      <para>De rechtbank acht verdachte strafbaar nu niet van enige strafuitsluitingsgrond is gebleken.</para>
+      <para>
+        <emphasis role="underline">Vordering van de officier van justitie</emphasis>
+      </para>
+      <para>De officier van justitie heeft gevorderd dat verdachte ter zake van de rechtbank begrijpt het primair ten laste gelegde feit wordt veroordeeld tot een gevangenisstraf van 48 maanden.</para>
+      <para>
+        <emphasis role="underline">Standpunt van de verdediging</emphasis>
+      </para>
+      <para>De raadsman heeft geen strafmaatverweer gevoerd.</para>
+      <para>
+        <emphasis role="underline">Oordeel van de rechtbank</emphasis>
+      </para>
+      <para>Bij de bepaling van de straf heeft de rechtbank rekening gehouden met de aard en de ernst van het bewezen en strafbaar verklaarde feit, de omstandigheden waaronder dit is begaan, de persoon van verdachte zoals die naar voren is gekomen uit het onderzoek ter terechtzitting en de rapporten van de reclassering, het uittreksel uit de justitiële documentatie, en ook met de vordering van de officier van justitie en het pleidooi van de verdediging.</para>
+      <para>De rechtbank heeft in het bijzonder het volgende in aanmerking genomen.</para>
+      <para>Verdachte heeft zich samen met een ander schuldig gemaakt aan een woningoverval. Verdachte en zijn mededader zijn s nachts door het forceren van de achterdeur de woning van het slachtoffer ingegaan. Het slachtoffer, een alleenstaande man op leeftijd, is in zijn slaapkamer vastgehouden en er is een riem om zijn nek gebonden. In de woning zijn vervolgens alle kasten doorzocht in een zoektocht naar geld. Uiteindelijk is 550,00 uit de portemonnee van het slachtoffer en 2.000,00 aan kleingeld dat in een emmer zat, weggenomen. Het slachtoffer spaarde dit kleingeld voor zijn kleinkinderen.</para>
+      <para>Met het plegen van deze woningoverval heeft verdachte laten zien geen enkel respect te hebben voor de persoonlijke integriteit van het slachtoffer, zijn gezondheid, veiligheid en eigendom. Een woning moet een veilige plek zijn. Bovendien veroorzaakt een woningoverval ook in de samenleving gevoelens van onveiligheid en onrust.</para>
+      <para>Uit de verklaringen van het slachtoffer volgt dat de impact van de woningoverval groot is: het slachtoffer is erg bang geweest, voelde zich daarna niet meer veilig, durfde niet meer in zijn slaapkamer te slapen en kon niet meer genieten van zijn woning. Het slachtoffer heeft hiervoor hulp gezocht bij een maatschappelijk werker die verbonden is aan zijn huisarts.</para>
+      <para>De rechtbank is van oordeel dat gelet op de aard en ernst van het bewezen verklaarde feit slechts kan worden volstaan met een onvoorwaardelijke gevangenisstaf van langere duur.</para>
+      <para>Bij het bepalen van de hoogte van de op te leggen gevangenisstraf heeft de rechtbank aansluiting gezocht bij de oriëntatiepunten voor straftoemeting, meer in het bijzonder het oriëntatiepunt voor overval woning.</para>
+      <para>Het oriëntatiepunt gaat uit van een gevangenisstraf van 3 jaren.</para>
+      <para>De rechtbank houdt in strafverhogende zin rekening met het toegepaste geweld, waaronder het binden van een riem om de nek van het slachtoffer en de poging hem een handdoek in zijn mond te stoppen. Daarnaast werkt de omstandigheid dat verdachte nog in een proeftijd liep van een eerdere veroordeling strafverhogend.</para>
+      <para>De rechtbank ziet geen strafverminderende factoren.</para>
+      <para>Gelet op het voorgaande, acht de rechtbank overeenkomstig de vordering van de officier van justitie - een gevangenisstraf van 48 maanden passend en geboden.</para>
+      <para>Tenuitvoerlegging van de op te leggen gevangenisstraf zal volledig plaatsvinden binnen de penitentiaire inrichting, tot het moment dat aan verdachte voorwaardelijke invrijheidstelling wordt verleend als bedoeld in artikel 6:2:10 van het Wetboek van Strafvordering.</para>
+      <para>[slachtoffer] heeft zich als benadeelde partij in het strafproces gevoegd met een vordering tot schadevergoeding. Gevorderd wordt een bedrag van 2.300,00 ter vergoeding van materiële schade en 2.500,00 ter vergoeding van immateriële schade, vermeerderd met wettelijke rente vanaf de datum waarop de schade is ontstaan.</para>
+      <para>
+        <emphasis role="underline">Standpunt van de officier van justitie</emphasis>
+      </para>
+      <para>De officier van justitie heeft zich op het standpunt gesteld dat de vordering ten aanzien van de materiële schade kan worden toegewezen tot een bedrag van - zo begrijpt de rechtbank</para>
+      <para>2.050,00. De vordering ten aanzien van de immateriële schade kan worden toegewezen.</para>
+      <para>
+        <emphasis role="underline">Standpunt van de verdediging</emphasis>
+      </para>
+      <para>De raadsman heeft zich op het standpunt gesteld dat de vordering niet-ontvankelijk moet worden verklaard, omdat verdachte van het ten laste gelegde feit moet worden vrijgesproken.</para>
+      <para>
+        <emphasis role="underline">Oordeel van de rechtbank</emphasis>
+      </para>
+      <para>Ter terechtzitting is duidelijk geworden dat de materiële schade aan de achterdeur van de benadeelde partij volledig is vergoed door de verzekeraar. Ook een deel van het weggenomen geld is vergoed, namelijk 500,00. De vordering ten aanzien van de materiële schade bedraagt daarom nog 2.300,00.</para>
+      <para>Uit de aangifte van de benadeelde partij volgt dat in totaal een bedrag van 2.550,00 is weggenomen. Daarvan is een bedrag van 500,00 al vergoed. Dat betekent dat er een materiële schade van 2.050,00 resteert. Naar het oordeel van de rechtbank is voldoende aannemelijk dat de benadeelde partij deze schade heeft geleden en dat deze schade een rechtstreeks gevolg is van het bewezen verklaarde feit. Dit deel van de vordering, waarvan de hoogte niet door verdachte is betwist, zal daarom worden toegewezen, vermeerderd met wettelijke rente vanaf 8 maart 2023.</para>
+      <para>Voor het overige deel van de gestelde materiële schade, namelijk 250,00, zal de vordering worden afgewezen. De rechtbank acht onvoldoende aannemelijk gemaakt dat de benadeelde partij deze schade heeft geleden.</para>
+      <para>Daarnaast heeft de benadeelde partij 2.500,00 gevorderd ter vergoeding van immateriële schade. Naar het oordeel van de rechtbank is - gelet op aard van het bewezen verklaarde feit, de verklaringen van de benadeelde partij en zijn toelichting ter terechtzitting - voldoende aannemelijk dat de benadeelde partij de gestelde schade heeft geleden en dat deze schade een rechtstreeks gevolg is van het bewezen verklaarde feit. De vordering, waarvan de hoogte niet door verdachte is betwist, zal daarom worden toegewezen, vermeerderd met wettelijke rente vanaf 8 maart 2023.</para>
+      <para>De rechtbank stelt vast dat verdachte het strafbare feit samen met een ander heeft gepleegd en dat zij naar civielrechtelijke maatstaven hoofdelijk aansprakelijk zijn voor de schade. De rechtbank zal daarom bepalen dat verdachte de schadevergoeding niet meer aan de benadeelde partij hoeft te betalen als zijn mededader die al heeft betaald, en andersom.</para>
+      <para>Nu de aansprakelijkheid van verdachte vaststaat, zal de rechtbank de schadevergoedingsmaatregel opleggen om te bevorderen dat verdachte de schade zal vergoeden.</para>
+      <para>De rechtbank zal verdachte veroordelen in de kosten die de benadeelde partij tot aan deze uitspraak in verband met de vordering heeft gemaakt, tot op heden begroot op nihil, en in de kosten die de benadeelde partij ten behoeve van de tenuitvoerlegging van deze uitspraak nog moet maken.</para>
+      <para>Bij onherroepelijk arrest van 13 februari 2020 van het gerechtshof Arnhem-Leeuwarden, locatie</para>
+      <para>Leeuwarden, is verdachte veroordeeld tot een gevangenisstraf van 12 weken, waarvan 6 weken voorwaardelijk, met een proeftijd van 3 jaren. De proeftijd is ingegaan op 9 februari 2021. Daarbij is als algemene voorwaarde gesteld dat veroordeelde voor het einde van de proeftijd geen strafbare feiten zal plegen.</para>
+      <para>De officier van justitie heeft bij vordering van 15 december 2023 de tenuitvoerlegging gevorderd van de voorwaardelijke straf.</para>
+      <para>Nu veroordeelde het bewezenverklaarde feit heeft begaan voor het einde van de proeftijd, zal de rechtbank de tenuitvoerlegging gelasten van deze voorwaardelijke straf.</para>
+      <para>De rechtbank heeft gelet op de artikelen 36f en 312 van het Wetboek van Strafrecht. </para>
+      <para>Deze voorschriften zijn toegepast, zoals zij ten tijde van het bewezen verklaarde rechtens golden dan wel ten tijde van deze uitspraak gelden.</para>
+      <para>Verklaart het primair ten laste gelegde feit bewezen, te kwalificeren en strafbaar zoals voormeld en verdachte daarvoor strafbaar.</para>
+      <para>Verklaart niet bewezen hetgeen aan verdachte meer of anders is ten laste gelegd dan het bewezen verklaarde en spreekt verdachte daarvan vrij.</para>
+      <para>Veroordeelt verdachte tot:</para>
+      <para>Beveelt dat de tijd die de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis heeft doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf, geheel in mindering zal worden gebracht.</para>
+      <para>Ten aanzien van 18/293374-23, primair:</para>
+      <para>Wijst de vordering van de benadeelde partij toe tot het hierna te noemen bedrag en veroordeelt verdachte hoofdelijk, aldus dat als een mededader betaalt, verdachte in zoverre zal zijn bevrijd, om aan [slachtoffer] te betalen:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>het bedrag van 4.550,00 (zegge: vierduizend vijfhonderdvijftig euro);</para>
+      </listitem>
+      <listitem>
+        <para>de wettelijke rente over dit bedrag vanaf 8 maart 2023 tot de dag van algehele voldoening;</para>
+      </listitem>
+      <listitem>
+        <para>de proceskosten die de benadeelde partij heeft gemaakt en ten behoeve van de tenuitvoerlegging vandeze uitspraak alsnog zal maken, tot heden begroot op nihil.</para>
+      </listitem>
+    </itemizedlist>
+    <parablock>
+      <para>Wijst de vordering voor het overige af.</para>
+      <para>Legt aan verdachte hoofdelijk, aldus dat als een mededader betaalt verdachte in zoverre zal zijn bevrijd, de verplichting op om ten behoeve van [slachtoffer] aan de Staat te betalen een bedrag van 4.550,00 (zegge: vierduizend vijfhonderdvijftig euro), vermeerderd met de wettelijke rente vanaf 8 maart 2023 tot de dag van algehele voldoening. Dit bedrag bestaat uit 2.050,00 aan materiële schade en 2.500,00 aan immateriële schade.</para>
+      <para>Bepaalt dat bij gebreke van volledig verhaal van de betalingsverplichting aan de Staat gijzeling voor de duur van 55 dagen kan worden toegepast. De toepassing van gijzeling heft de betalingsverplichting niet op.</para>
+      <para>Bepaalt dat als verdachte of een mededader voldoet aan de betalingsverplichting aan de benadeelde partij of aan de Staat, verdachte in zoverre zal zijn bevrijd van de betalingsverplichting aan beiden.</para>
+      <para>Gelast de tenuitvoerlegging van de straf voor zover voorwaardelijk opgelegd bij arrest van het gerechtshof Arnhem-Leeuwarden, locatie Leeuwarden, van 13 februari 2020, te weten: 6 weken gevangenisstraf.</para>
+      <para>Dit vonnis is gewezen door mr. O.J. Bosker, voorzitter, mr. S. Zwarts en mr. M. Lok, rechters, bijgestaan door mr. L. van der Weide, griffier, en uitgesproken ter openbare terechtzitting van deze rechtbank op 1 maart 2024.</para>
+      <para>De griffier is buiten staat dit vonnis mede te ondertekenen.</para>
+    </parablock>
+    <mediaobject>
+      <imageobject>
+        <imagedata align="center" scale="100" fileref="a0debbe7-5d23-4d3a-9af4-92550dff5196" depth="3" width="652" format="image/png" />
+      </imageobject>
+    </mediaobject>
+    <para>1. Proces-verbaal van bevindingen van 25 juli 2023, pagina 68 van het dossier.</para>
+    <mediaobject>
+      <imageobject>
+        <imagedata align="center" scale="100" fileref="cb4e34ed-dea4-4847-a615-3259d43e665e" depth="3" width="652" format="image/png" />
+      </imageobject>
+    </mediaobject>
+  </section>
+</uitspraak>
+</open-rechtspraak>

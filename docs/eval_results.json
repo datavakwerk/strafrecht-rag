@@ -1,0 +1,250 @@
+{
+  "k": 6,
+  "llm": "ollama/llama3.2",
+  "vragen": 15,
+  "recall_at_k": 0.931,
+  "hit_at_k": 1.0,
+  "mrr": 0.944,
+  "bronjuistheid": 1.0,
+  "claim_acceptance": 0.893,
+  "geen_bron_correctheid": 1.0,
+  "onterecht_geen_bron": 0.0,
+  "per_vraag": [
+    {
+      "id": "q01",
+      "type": "semantisch",
+      "status": "ok",
+      "recall": 0.5,
+      "rr": 1.0,
+      "beste_score": 0.576,
+      "opgehaald": [
+        "ECLI:NL:GHAMS:2024:444",
+        "ECLI:NL:RBAMS:2023:1368",
+        "ECLI:NL:RBROT:2023:2142",
+        "ECLI:NL:RBROT:2023:2143"
+      ],
+      "claims_ok": 3,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q02",
+      "type": "semantisch",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.732,
+      "opgehaald": [
+        "ECLI:NL:RBDHA:2024:2863",
+        "ECLI:NL:RBAMS:2023:1256",
+        "ECLI:NL:GHSHE:2023:736",
+        "ECLI:NL:RBOVE:2025:1204"
+      ],
+      "claims_ok": 1,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q03",
+      "type": "semantisch",
+      "status": "ok",
+      "recall": 0.6666666666666666,
+      "rr": 1.0,
+      "beste_score": 0.551,
+      "opgehaald": [
+        "ECLI:NL:RBMNE:2024:1313",
+        "ECLI:NL:RBMNE:2024:1323",
+        "ECLI:NL:RBZWB:2025:3171"
+      ],
+      "claims_ok": 1,
+      "claims_afgekeurd": 1,
+      "llm_fout": ""
+    },
+    {
+      "id": "q04",
+      "type": "semantisch",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.684,
+      "opgehaald": [
+        "ECLI:NL:GHDHA:2024:346"
+      ],
+      "claims_ok": 2,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q05",
+      "type": "semantisch",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.663,
+      "opgehaald": [
+        "ECLI:NL:RBMNE:2025:898",
+        "ECLI:NL:GHARL:2025:1297",
+        "ECLI:NL:RBOVE:2025:1195",
+        "ECLI:NL:RBOVE:2025:1205",
+        "ECLI:NL:RBOVE:2025:1204"
+      ],
+      "claims_ok": 3,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q06",
+      "type": "semantisch",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.759,
+      "opgehaald": [
+        "ECLI:NL:GHAMS:2023:585",
+        "ECLI:NL:GHARL:2024:1664",
+        "ECLI:NL:PHR:2025:292"
+      ],
+      "claims_ok": 2,
+      "claims_afgekeurd": 1,
+      "llm_fout": ""
+    },
+    {
+      "id": "q07",
+      "type": "semantisch",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.547,
+      "opgehaald": [
+        "ECLI:NL:HR:2023:284",
+        "ECLI:NL:GHSHE:2024:814",
+        "ECLI:NL:RBOBR:2024:802"
+      ],
+      "claims_ok": 2,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q08",
+      "type": "semantisch",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 0.3333333333333333,
+      "beste_score": 0.412,
+      "opgehaald": [
+        "ECLI:NL:RBAMS:2024:1407",
+        "ECLI:NL:HR:2023:321",
+        "ECLI:NL:RBAMS:2024:1419",
+        "ECLI:NL:HR:2023:318",
+        "ECLI:NL:HR:2023:322"
+      ],
+      "claims_ok": 3,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q09",
+      "type": "gefilterd",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.559,
+      "opgehaald": [
+        "ECLI:NL:GHARL:2023:1859",
+        "ECLI:NL:GHARL:2023:1840"
+      ],
+      "claims_ok": 2,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q10",
+      "type": "gefilterd",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.7,
+      "opgehaald": [
+        "ECLI:NL:RBDHA:2024:2861",
+        "ECLI:NL:RBAMS:2024:1450",
+        "ECLI:NL:RBNNE:2025:992",
+        "ECLI:NL:RBNHO:2024:3271",
+        "ECLI:NL:RBROT:2024:2401"
+      ],
+      "claims_ok": 3,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q11",
+      "type": "inhoudelijk",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.551,
+      "opgehaald": [
+        "ECLI:NL:RBNNE:2024:674",
+        "ECLI:NL:RBDHA:2023:2514",
+        "ECLI:NL:RBOVE:2024:1248",
+        "ECLI:NL:GHSHE:2024:861",
+        "ECLI:NL:RBLIM:2023:1849",
+        "ECLI:NL:RBLIM:2024:1060"
+      ],
+      "claims_ok": 1,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q12",
+      "type": "inhoudelijk",
+      "status": "ok",
+      "recall": 1.0,
+      "rr": 1.0,
+      "beste_score": 0.775,
+      "opgehaald": [
+        "ECLI:NL:GHAMS:2024:444",
+        "ECLI:NL:RBDHA:2023:2795",
+        "ECLI:NL:RBMNE:2025:868"
+      ],
+      "claims_ok": 2,
+      "claims_afgekeurd": 1,
+      "llm_fout": ""
+    },
+    {
+      "id": "q13",
+      "type": "geen_bron",
+      "status": "ok",
+      "recall": null,
+      "rr": null,
+      "beste_score": 0.266,
+      "opgehaald": [],
+      "claims_ok": 0,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q14",
+      "type": "geen_bron",
+      "status": "ok",
+      "recall": null,
+      "rr": null,
+      "beste_score": 0.303,
+      "opgehaald": [],
+      "claims_ok": 0,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    },
+    {
+      "id": "q15",
+      "type": "geen_bron",
+      "status": "ok",
+      "recall": null,
+      "rr": null,
+      "beste_score": 0.09,
+      "opgehaald": [],
+      "claims_ok": 0,
+      "claims_afgekeurd": 0,
+      "llm_fout": ""
+    }
+  ]
+}

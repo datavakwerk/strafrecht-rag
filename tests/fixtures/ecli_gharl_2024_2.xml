@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:GHARL:2024:2</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-01-02T14:31:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-01-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Gerechtshof_Arnhem-Leeuwarden" scheme="overheid.RechterlijkeMacht">Gerechtshof Arnhem-Leeuwarden</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2024-01-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">21-002836-21</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Zwolle</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHARL:2024:2">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHARL:2024:2</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-01-02T14:28:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-01-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:GHARL:2024:2 Gerechtshof Arnhem-Leeuwarden , 02-01-2024 / 21-002836-21</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:GHARL:2024:2:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Nadere regiezitting in Mega Karlsbad. De advocaat-generaal heeft toegezegd een aantal foto’s en een beslaglijst aan het dossier toe te voegen. De overige (herhaalde) onderzoekswensen van de verdediging zijn door het hof afgewezen</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:GHARL:2024:2:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>Afdeling strafrecht</para>
+  <parablock>
+    <para>Parketnummer:	21-002836-21 </para>
+    <para>Uitspraak d.d.: 13 december 2023 </para>
+    <para>TEGENSPRAAK</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Tussenarrest</emphasis> van de meervoudige kamer voor strafzaken van het gerechtshof Arnhem-Leeuwarden, zittingsplaats Arnhem, gewezen op het hoger beroep, ingesteld tegen het vonnis van de rechtbank Overijssel, zittingsplaats Zwolle, van 4 juni 2021 in de in eerste aanleg gevoegde strafzaken, parketnummers 08-910064-19 en 08-952188-20, tegen</para>
+  </parablock>
+  <section>
+    <title>
+      [verdachte], </title>
+    <parablock>
+      <para>geboren te [geboorteplaats] ([geboorteland]) op [geboortedatum] 1994,</para>
+      <para>thans verblijvende in [penitentiaire inrichting] te [plaats].</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Het hoger beroep</title>
+    <para />
+    <parablock>
+      <para>De verdachte heeft tegen het hiervoor genoemde vonnis hoger beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Onderzoek van de zaak</title>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen naar aanleiding van het onderzoek op de regiezitting van het hof van 29 november 2023 en, overeenkomstig het bepaalde bij artikel 422 van het Wetboek van Strafvordering, het onderzoek op de terechtzitting in eerste aanleg.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof heeft kennisgenomen van de onderzoekswensen vermeld in het e-mailbericht van 28 november 2023 van mr. R. van Veen, waar de raadsvrouw van verdachte, mr. B.L.M. Ficq, zich bij heeft aangeslotenen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voorts heeft het hof kennisgenomen van het standpunt van de advocaat-generaal en van hetgeen door de verdediging op de regiezitting van 29 november 2023 naar voren is gebracht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Onderzoekswens</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De raadsvrouw heeft verzocht om alle data aan het dossier toe te voegen die zijn aangetroffen op de gegevensdragers die zijn aangetroffen op de gegevensdragers (en) op het perceel bij de huiszoeking op het adres [adres] te [plaats], inclusief de sms-berichten die dan nader zouden moeten worden uitgewerkt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Standpunt advocaat-generaal</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De advocaat-generaal heeft zich ter zitting verzet tegen hiervoor vermeld verzoek. De advocaat-generaal heeft voorgesteld dat de verdediging bij de politie alle beschikbare gegevens en data mag bekijken. De advocaat-generaal heeft zich niet verzet tegen het verstrekken van de beslaglijst met betrekking tot de [adres] te [plaats].</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Oordeel hof</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof constateert dat het verzoek van de verdediging om alle data aan het dossier toe te voegen die zijn aangetroffen op de gegevensdragers die zijn aangetroffen op de gegevensdragers (en) op het perceel bij de huiszoeking op het adres [adres] te [plaats], inclusief de sms-berichten die dan nader zouden moeten worden uitgewerkt, reeds bij tussenarrest van 28 maart 2023 is afgewezen. Het hof stelt voorop dat verzoek dient te worden beoordeeld aan de hand van het noodzaakscriterium. Voor zover het verzoek ziet op het verkrijgen van een foto waarop getuige [naam getuige] te zien is terwijl hij een vuurwapen vasthoudt heeft de advocaat-generaal toegezegd dat hij er zorg voor zal dragen dat die foto aan het dossier wordt toegevoegd, voor zover dat nog niet is gebeurd. Ook heeft de advocaat-generaal toegezegd dat de beslaglijst met betrekking tot de doorzoeking op het adres [adres] te [plaats] aan het dossier zal worden toegevoegd. Het hof hoeft om die redenen het verzoek van de verdediging dan ook niet toe te wijzen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof wijst het verzoek af. Gelet op de onvoldoende concrete onderbouwing ziet het hof niet in dat het toewijzen van dit verzoek noodzakelijk is voor de volledigheid van het onderzoek in de za(a)k(en) [naam onderzoek] en/of [naam onderzoek], terwijl ook overigens niet is gebleken van relevantie ten behoeve van een van de te beantwoorden vragen van de artikelen 348 en 350 van het Wetboek van Strafvordering. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>BESLISSING</title>
+    <para />
+    <parablock>
+      <para>Het hof:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Stelt de stukken in handen van de advocaat-generaal teneinde de door hem toegezegde foto(‘s) en beslaglijst zoals hiervoor vermeld aan het dossier toe te voegen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wijst af het anders of meer verzochte.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Aldus gewezen door</para>
+      <para>mr. O.G. Schuur, voorzitter,</para>
+      <para>mr. J.A.W. Lensing en mr. R.G.J. Welbergen, raadsheren,</para>
+      <para>in tegenwoordigheid van mr. M.A.J.H. Muurmans, griffier,</para>
+      <para>en op 13 december 2023 ter openbare terechtzitting uitgesproken.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

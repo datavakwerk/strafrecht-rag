@@ -1,0 +1,20 @@
+{
+  "_toelichting": "Vragen met verwachte ECLI's uit het corpus (strafrecht, 1–15 maart 2023/2024/2025). Vragen zijn bewust anders geformuleerd dan de uitspraken zelf: retrieval moet op betekenis werken, niet op trefwoorden. geen_bron-vragen hebben geen antwoord in het corpus en moeten het geen-bron-pad raken.",
+  "vragen": [
+    {"id": "q01", "type": "semantisch", "vraag": "Welke uitspraken gaan over verduistering door een penningmeester of bestuurder van een stichting?", "verwacht": ["ECLI:NL:GHAMS:2024:444", "ECLI:NL:GHSHE:2024:772"]},
+    {"id": "q02", "type": "semantisch", "vraag": "Een ICT-medewerker hield telefoons en laptops van zijn werkgever voor zichzelf", "verwacht": ["ECLI:NL:RBDHA:2024:2863"]},
+    {"id": "q03", "type": "semantisch", "vraag": "Bijstand ontvangen terwijl je samenwoont zonder dat aan de gemeente te melden", "verwacht": ["ECLI:NL:HR:2024:310", "ECLI:NL:RBMNE:2024:1313", "ECLI:NL:RBMNE:2024:1323"]},
+    {"id": "q04", "type": "semantisch", "vraag": "Vrachtwagenchauffeur met diabetes veroorzaakt een dodelijk ongeluk door een te lage bloedsuikerspiegel", "verwacht": ["ECLI:NL:GHDHA:2024:346"]},
+    {"id": "q05", "type": "semantisch", "vraag": "Overval 's nachts op hoogbejaarde bewoners in hun slaapkamer", "verwacht": ["ECLI:NL:RBMNE:2025:898"]},
+    {"id": "q06", "type": "semantisch", "vraag": "Iemand stak een brandende doek door de brievenbus van een woning", "verwacht": ["ECLI:NL:GHAMS:2023:585"]},
+    {"id": "q07", "type": "semantisch", "vraag": "Financieel adviseur eigende zich het ingelegde geld van zijn klanten toe", "verwacht": ["ECLI:NL:HR:2023:284"]},
+    {"id": "q08", "type": "semantisch", "vraag": "Fraude met behulp van bankmedewerkers en phishing", "verwacht": ["ECLI:NL:RBAMS:2024:1419"]},
+    {"id": "q09", "type": "gefilterd", "vraag": "Dodelijk verkeersongeval door veel te hard rijden", "verwacht": ["ECLI:NL:GHARL:2023:1859"], "filters": {"instantie_type": "Gerechtshof", "datum_van": "2023-01-01", "datum_tot": "2023-12-31"}},
+    {"id": "q10", "type": "gefilterd", "vraag": "Handel in vuurwapens en munitie", "verwacht": ["ECLI:NL:RBDHA:2024:2861", "ECLI:NL:RBNNE:2025:992", "ECLI:NL:RBROT:2024:2401"], "filters": {"instantie_type": "Rechtbank", "datum_van": "2024-01-01"}},
+    {"id": "q11", "type": "inhoudelijk", "vraag": "Wat woog de rechter mee bij de strafmaat voor de woningoverval in Alteveer?", "verwacht": ["ECLI:NL:RBNNE:2024:674"]},
+    {"id": "q12", "type": "inhoudelijk", "vraag": "Welke straf legde het hof op aan de stichtingsvoorzitter die subsidiegeld verduisterde?", "verwacht": ["ECLI:NL:GHAMS:2024:444"]},
+    {"id": "q13", "type": "geen_bron", "vraag": "Wat zegt de rechter over de octrooiaanvraag voor een kernfusiereactor?", "verwacht": [], "geen_bron": true},
+    {"id": "q14", "type": "geen_bron", "vraag": "Hoe hoog mag de huurverhoging van een bedrijfspand in Utrecht zijn?", "verwacht": [], "geen_bron": true},
+    {"id": "q15", "type": "geen_bron", "vraag": "Welke uitspraken gaan over doping tijdens de Tour de France?", "verwacht": [], "geen_bron": true}
+  ]
+}
