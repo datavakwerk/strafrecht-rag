@@ -3,6 +3,7 @@ from strafrecht_rag.query.generator import (
     SYSTEM_PROMPT,
     Generator,
     build_prompt,
+    format_passages,
     verify,
 )
 from strafrecht_rag.query.llm import ExtractiveLLM, FakeLLM
@@ -182,3 +183,18 @@ def test_repeated_claims_are_collapsed_with_merged_references(store, embedder):
     assert [v.nummer for v in result.beweringen[0].verwijzingen] == [1, 2]
     assert result.duplicaten == 2
     assert result.to_dict()["duplicaten"] == 2
+
+
+def test_format_passages_preserves_unicode_and_empty_text():
+    class Hit:
+        ecli = "ECLI:NL:HR:2024:één"
+        instantie = "Hoge Raad ⚖️"
+        datum = "2024-01-01"
+        sectie_nummer = "1"
+        sectie_titel = "Résumé"
+        tekst = ""
+
+    assert format_passages([Hit()]) == (
+        "[1] ECLI:NL:HR:2024:één · Hoge Raad ⚖️ · 2024-01-01 · §1 Résumé\n"
+    )
+    assert format_passages([]) == ""
